@@ -6,7 +6,7 @@ The TOTVS Code Challenge was launched as a prerequisite for applying to the posi
 2. _Identify a pattern on any set of fields that can help predict how much a customer will spend._
 3. _Calculate a sales forecast for the next week._
 
-This document presents my solutions to those tasks, including rationale and comments to my code.
+This document presents my solutions to those tasks, including rationale and comments to my code (see file [challenge.py](challenge.py)).
 
 ## Sample data characteristics and parsing
 
